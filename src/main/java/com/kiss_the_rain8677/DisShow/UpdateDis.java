@@ -22,14 +22,14 @@ public class UpdateDis extends BukkitRunnable {
     //logic exc each time
     @Override
     public void run() {
-        //找主玩家
+        //find main player
         findMainPlayerInServer("jie");
-        //更新当前玩家信息
+        //update players info
         updatePlayerList();
-        //更新主玩家最小距离
+        //update min dis from main player
         updateDis();
 
-        plugin.getServer().broadcastMessage("the min dis from jie is"+minDis);
+
 
     }
 
@@ -37,11 +37,11 @@ public class UpdateDis extends BukkitRunnable {
         //find main player
         if(Bukkit.getServer().getPlayer(name)==null) {
             //can't find
-            Bukkit.getLogger().info("finding jie...");
+            Bukkit.getLogger().info("正在查找"+name+"...");
             return;
         }
         else {
-            Bukkit.getLogger().info("found "+name+"!");
+            Bukkit.getLogger().info("已经找到 "+name+"!");
             mainPlayer=Bukkit.getServer().getPlayer(name);
         }
     }
@@ -54,6 +54,7 @@ public class UpdateDis extends BukkitRunnable {
 
     //update min dis and player
     public void updateDis() {
+        if(mainPlayer==null) return;
         minDis=99999;
         double mx=mainPlayer.getLocation().getX();
         double my=mainPlayer.getLocation().getY();
@@ -71,6 +72,7 @@ public class UpdateDis extends BukkitRunnable {
                 minDis=currentDis;
             }
         }
+        plugin.getServer().broadcastMessage("距离 "+mainPlayer.getName()+" jie的最小距离是"+minDis);
 
     }
 
