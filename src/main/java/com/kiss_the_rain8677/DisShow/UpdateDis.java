@@ -47,9 +47,11 @@ public class UpdateDis extends BukkitRunnable {
     }
 
     public void updatePlayerList(){
+        HashMap<UUID, Player> playerHashMap = new HashMap<>();
         for(Player player:Bukkit.getServer().getOnlinePlayers()){
-            plugin.getPlayerList().put(player.getUniqueId(),player);
+            playerHashMap.put(player.getUniqueId(),player);
         }
+        plugin.setPlayerList(playerHashMap);
     }
 
     //update min dis and player

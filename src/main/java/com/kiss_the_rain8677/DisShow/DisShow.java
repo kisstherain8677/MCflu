@@ -18,9 +18,11 @@ public class DisShow extends JavaPlugin  {
 
     }
 
-    public HashMap<UUID,Player> getPlayerList(){
+    public HashMap<UUID, Player> getPlayerList() {
         return playerList;
     }
 
-
+    public void setPlayerList(HashMap<UUID, Player> playerList) {
+        this.playerList = playerList;
+    }
 }
