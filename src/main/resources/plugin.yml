@@ -2,3 +2,17 @@ name: DisTest
 main: com.kiss_the_rain8677.DisShow.DisShow
 version: 1.0
 author: kissTheRain
+commands:
+  showdis:
+    description: "show the nearest player's dis to you"
+    usage: "usage:/showdis"
+
+
+  infect:
+    description: "make a player infected"
+    usage: "usage:/infect [player's name+maxVal]"
+
+
+  showMaxHealth:
+    description: "show player's max health"
+    usage: "usage:/showMaxHealth [player's name]"

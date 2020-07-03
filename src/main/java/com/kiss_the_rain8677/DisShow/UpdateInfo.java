@@ -9,14 +9,16 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-public class UpdateDis extends BukkitRunnable {
+public class UpdateInfo extends BukkitRunnable {
     private final DisShow plugin;
     private Player mainPlayer;//main player
     private double minDis;
     //construct
-    public UpdateDis(DisShow plugin) {
-        minDis=99999;
+    public UpdateInfo(DisShow plugin) {
         this.plugin=plugin;
+        this.mainPlayer=plugin.getMainPlayer();
+        minDis=99999;
+
     }
 
     //logic exc each time
@@ -42,6 +44,7 @@ public class UpdateDis extends BukkitRunnable {
         }
         else {
             Bukkit.getLogger().info("已经找到 "+name+"!");
+            this.plugin.setMainPlayer(Bukkit.getServer().getPlayer(name));
             mainPlayer=Bukkit.getServer().getPlayer(name);
         }
     }
@@ -74,10 +77,13 @@ public class UpdateDis extends BukkitRunnable {
                 minDis=currentDis;
             }
         }
-        plugin.getServer().broadcastMessage("距离 "+mainPlayer.getName()+" jie的最小距离是"+minDis);
+        //plugin.getServer().broadcastMessage("距离 "+mainPlayer.getName()+" 的最小距离是"+minDis);
+        //update the minDis in plugin
+        plugin.setMinDis(minDis);
 
     }
 
 
 
 }
+
