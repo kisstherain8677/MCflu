@@ -3,6 +3,9 @@ package com.kiss_the_rain8677.DisShow;
 import java.util.HashMap;
 import java.util.UUID;
 
+import com.kiss_the_rain8677.DisShow.Command.MyCommand;
+import com.kiss_the_rain8677.DisShow.Listener.PlayerListener;
+import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitTask;
@@ -15,6 +18,7 @@ public class DisShow extends JavaPlugin  {
 
     @Override
     public void onEnable() {
+        Bukkit.getPluginManager().registerEvents(new PlayerListener(),this);
         this.getCommand("showdis").setExecutor(new MyCommand(this));
         this.getCommand("infect").setExecutor(new MyCommand(this));
         this.getCommand("showMaxHealth").setExecutor(new MyCommand(this));

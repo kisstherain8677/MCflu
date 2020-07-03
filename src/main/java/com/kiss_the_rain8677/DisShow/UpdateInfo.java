@@ -31,6 +31,8 @@ public class UpdateInfo extends BukkitRunnable {
         //update min dis from main player
         updateDis();
 
+        //以下是条件事件
+
 
 
     }

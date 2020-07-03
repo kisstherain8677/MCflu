@@ -1,5 +1,7 @@
-package com.kiss_the_rain8677.DisShow;
+package com.kiss_the_rain8677.DisShow.Command;
 
+import com.kiss_the_rain8677.DisShow.DisShow;
+import com.kiss_the_rain8677.DisShow.StateControl;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
