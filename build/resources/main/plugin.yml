@@ -16,3 +16,7 @@ commands:
   showMaxHealth:
     description: "show player's max health"
     usage: "usage:/showMaxHealth [player's name]"
+
+
+
+

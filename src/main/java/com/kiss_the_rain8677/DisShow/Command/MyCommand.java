@@ -43,6 +43,7 @@ public class MyCommand implements CommandExecutor {
                 //调用感染函数
                 StateControl control=new StateControl(plugin);
                 control.setPlayerMaxHealth(args[0],Double.valueOf(args[1]));
+                plugin.getServer().getWorld("world");
             }
             else{
                 player.sendMessage("参数过多");

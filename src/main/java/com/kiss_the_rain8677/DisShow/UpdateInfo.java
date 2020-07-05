@@ -41,11 +41,13 @@ public class UpdateInfo extends BukkitRunnable {
         //find main player
         if(Bukkit.getServer().getPlayer(name)==null) {
             //can't find
-            Bukkit.getLogger().info("正在查找"+name+"...");
+            //Bukkit.getLogger().info("正在查找"+name+"...");
+            //System.out.println("正在查找"+name+"...");
             return;
         }
         else {
-            Bukkit.getLogger().info("已经找到 "+name+"!");
+            //Bukkit.getLogger().info("已经找到 "+name+"!");
+            //System.out.println("已经找到 "+name+"!");
             this.plugin.setMainPlayer(Bukkit.getServer().getPlayer(name));
             mainPlayer=Bukkit.getServer().getPlayer(name);
         }

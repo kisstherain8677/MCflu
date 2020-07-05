@@ -1,13 +1,22 @@
 package com.kiss_the_rain8677.DisShow.Listener;
 
+import com.kiss_the_rain8677.DisShow.DisShow;
+import com.kiss_the_rain8677.DisShow.StateControl;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
+import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageByEntityEvent;
 import org.bukkit.event.entity.EntityDamageEvent;
 
-public class EntityListener {
+public class EntityListener implements Listener {
+
+    DisShow plugin;
+    public EntityListener(DisShow plugin){
+        this.plugin=plugin;
+        plugin.getServer().getPluginManager().registerEvents(this,plugin);
+    }
 
     @EventHandler
     public void EntityDamage(EntityDamageByEntityEvent event){
@@ -16,14 +25,10 @@ public class EntityListener {
             //攻击的人是僵尸
             Entity entity=event.getEntity();
             Player player=(Player)damager;
-            if(player.getName().equalsIgnoreCase("jie")){
-                event.setDamage(1000);
-            }else{
-                event.setCancelled(true);
-            }
-            if(event.getEntityType()==EntityType.PIG){
-                double damage=event.getDamage();
-                event.setDamage(damage+10);
+            if(player.getName().equalsIgnoreCase(plugin.getMainPlayer().getName())){
+                //如果没有感染
+                StateControl control=new StateControl(plugin);
+                control.setPlayerMaxHealth(player.getName(),control.getPlayerMaxHealth(player.getName())*0.7);
             }
 
         }
