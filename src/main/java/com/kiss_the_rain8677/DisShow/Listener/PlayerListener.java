@@ -51,7 +51,8 @@ public class PlayerListener implements Listener {
         //获取玩家名
         String playerName=event.getPlayer().getName();
         //获得健康状态
-        HealthList healthList=plugin.getAllHealthList().get(playerName);
+        HashMap<String,HealthList>allHealthList=plugin.getAllHealthList();
+        HealthList healthList=allHealthList.get(playerName);
         event.getPlayer().sendMessage("get healthList"+healthList.getPlayerName());
 
 
@@ -70,6 +71,10 @@ public class PlayerListener implements Listener {
                     double currentMaxHealth=control.getPlayerMaxHealth(playerName);
                     control.setPlayerMaxHealth(playerName,currentMaxHealth*0.7);
                     healthList.setInfected(true);//状态设置为中毒
+                    //更新
+                    allHealthList.remove(playerName);
+                    allHealthList.put(playerName,healthList);
+                    plugin.setAllHealthList(allHealthList);
                 }
             }
         }
