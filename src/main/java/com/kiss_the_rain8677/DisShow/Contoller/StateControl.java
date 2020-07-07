@@ -1,5 +1,6 @@
-package com.kiss_the_rain8677.DisShow;
+package com.kiss_the_rain8677.DisShow.Contoller;
 
+import com.kiss_the_rain8677.DisShow.MainPlugin;
 import com.kiss_the_rain8677.DisShow.Runnable.DelayDead;
 import com.kiss_the_rain8677.DisShow.Runnable.InfectedPartical;
 import org.bukkit.attribute.Attribute;
@@ -11,9 +12,9 @@ import java.util.UUID;
 
 public class StateControl {
 
-    private DisShow plugin;
+    private MainPlugin plugin;
 
-    public StateControl(DisShow plugin) {
+    public StateControl(MainPlugin plugin) {
         this.plugin = plugin;
     }
 

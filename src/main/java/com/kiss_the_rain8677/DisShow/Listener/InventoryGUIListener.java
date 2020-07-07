@@ -1,8 +1,8 @@
 package com.kiss_the_rain8677.DisShow.Listener;
 
-import com.kiss_the_rain8677.DisShow.DisShow;
+import com.kiss_the_rain8677.DisShow.MainPlugin;
 import com.kiss_the_rain8677.DisShow.GUI.InventoryGUI;
-import com.kiss_the_rain8677.DisShow.util.VaultUtil;
+import com.kiss_the_rain8677.DisShow.Util.VaultUtil;
 import org.bukkit.Material;
 import org.bukkit.entity.HumanEntity;
 import org.bukkit.entity.Player;
@@ -14,9 +14,9 @@ import org.bukkit.inventory.ItemStack;
 
 public class InventoryGUIListener implements Listener {
 
-    DisShow plugin;
+    MainPlugin plugin;
     //获取plugin，注册事件
-    public InventoryGUIListener(DisShow plugin){
+    public InventoryGUIListener(MainPlugin plugin){
         this.plugin=plugin;
         plugin.getServer().getPluginManager().registerEvents(this,plugin);
     }

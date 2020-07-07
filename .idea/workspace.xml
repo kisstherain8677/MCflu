@@ -7,30 +7,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a518deb8-4593-44f6-8b2d-fc8e9ceeaa6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/Vault.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/InventoryGUIListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/DelayDead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/InfectedPartical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/util/VaultUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Command/MyCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Command/MyCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/DisShow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Listener/EntityListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Listener/EntityListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Listener/InventoryGUIListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Listener/InventoryGUIListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Listener/PlayerListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Listener/PlayerListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Runnable/DelayDead.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Runnable/DelayDead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Runnable/InfectedPartical.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Runnable/InfectedPartical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Runnable/UpdateInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/Runnable/UpdateInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/StateControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/util/VaultUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kiss_the_rain8677/DisShow/util/VaultUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/DisShow-1.01-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/DisShow-1.01-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Command/MyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Command/MyCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/DisShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/DisShow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/GUI/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/GUI/InventoryGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/HealthList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/HealthList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/DisShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/MainPlugin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/EntityListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/EntityListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/InventoryGUIListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/InventoryGUIListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/PlayerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/PlayerListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/StateControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/StateControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/UpdateInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/UpdateInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/DelayDead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/DelayDead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/InfectedPartical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/InfectedPartical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/UpdateInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/UpdateInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/StateControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Contoller/StateControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/util/VaultUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Util/VaultUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +230,7 @@
       <workItem from="1594008140474" duration="1232000" />
       <workItem from="1594014944684" duration="13250000" />
       <workItem from="1594046346915" duration="1203000" />
-      <workItem from="1594082229882" duration="15478000" />
+      <workItem from="1594082229882" duration="15979000" />
     </task>
     <servers />
   </component>
@@ -254,22 +258,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593574889466" />
-    <state width="1493" height="20" key="GridCell.Tab.0.bottom" timestamp="1594109963525">
+    <state width="1493" height="20" key="GridCell.Tab.0.bottom" timestamp="1594110437685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="20" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594109963525" />
-    <state width="1493" height="20" key="GridCell.Tab.0.center" timestamp="1594109963525">
+    <state width="1493" height="20" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594110437685" />
+    <state width="1493" height="20" key="GridCell.Tab.0.center" timestamp="1594110437685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="20" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594109963525" />
-    <state width="1493" height="20" key="GridCell.Tab.0.left" timestamp="1594109963525">
+    <state width="1493" height="20" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594110437685" />
+    <state width="1493" height="20" key="GridCell.Tab.0.left" timestamp="1594110437685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="20" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594109963525" />
-    <state width="1493" height="20" key="GridCell.Tab.0.right" timestamp="1594109963525">
+    <state width="1493" height="20" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594110437685" />
+    <state width="1493" height="20" key="GridCell.Tab.0.right" timestamp="1594110437685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="20" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594109963525" />
+    <state width="1493" height="20" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594110437685" />
     <state x="698" y="146" key="IDE.errors.dialog" timestamp="1593654181041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

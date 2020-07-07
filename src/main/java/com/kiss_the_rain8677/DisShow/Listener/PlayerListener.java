@@ -1,8 +1,8 @@
 package com.kiss_the_rain8677.DisShow.Listener;
 
-import com.kiss_the_rain8677.DisShow.DisShow;
+import com.kiss_the_rain8677.DisShow.MainPlugin;
 import com.kiss_the_rain8677.DisShow.HealthList;
-import com.kiss_the_rain8677.DisShow.StateControl;
+import com.kiss_the_rain8677.DisShow.Contoller.StateControl;
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -16,9 +16,9 @@ import java.util.UUID;
 
 public class PlayerListener implements Listener {
 
-    DisShow plugin;
+    MainPlugin plugin;
     //获取plugin，注册事件
-    public PlayerListener(DisShow plugin){
+    public PlayerListener(MainPlugin plugin){
         this.plugin=plugin;
         plugin.getServer().getPluginManager().registerEvents(this,plugin);
     }

@@ -1,7 +1,6 @@
 package com.kiss_the_rain8677.DisShow.Runnable;
 
-import com.kiss_the_rain8677.DisShow.DisShow;
-import com.kiss_the_rain8677.DisShow.HealthList;
+import com.kiss_the_rain8677.DisShow.MainPlugin;
 import org.bukkit.Location;
 import org.bukkit.Particle;
 import org.bukkit.entity.Player;
@@ -9,11 +8,11 @@ import org.bukkit.scheduler.BukkitRunnable;
 
 public class InfectedPartical extends BukkitRunnable {
 
-    private final DisShow plugin;
+    private final MainPlugin plugin;
     private Player player;//main player
 
     //construct
-    public InfectedPartical(DisShow plugin) {
+    public InfectedPartical(MainPlugin plugin) {
         this.plugin=plugin;
         this.player=plugin.getMainPlayer();
 

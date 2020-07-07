@@ -1,6 +1,6 @@
 package com.kiss_the_rain8677.DisShow.Runnable;
 
-import com.kiss_the_rain8677.DisShow.DisShow;
+import com.kiss_the_rain8677.DisShow.MainPlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;
@@ -10,11 +10,11 @@ import java.util.Map;
 import java.util.UUID;
 
 public class UpdateInfo extends BukkitRunnable {
-    private final DisShow plugin;
+    private final MainPlugin plugin;
     private Player mainPlayer;//main player
     private double minDis;
     //construct
-    public UpdateInfo(DisShow plugin) {
+    public UpdateInfo(MainPlugin plugin) {
         this.plugin=plugin;
         this.mainPlayer=plugin.getMainPlayer();
         minDis=99999;

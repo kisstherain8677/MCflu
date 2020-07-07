@@ -1,4 +1,4 @@
-package com.kiss_the_rain8677.DisShow.util;
+package com.kiss_the_rain8677.DisShow.Util;
 
 import net.milkbowl.vault.economy.Economy;
 import org.bukkit.Bukkit;

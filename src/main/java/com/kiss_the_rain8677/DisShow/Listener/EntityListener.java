@@ -1,23 +1,22 @@
 package com.kiss_the_rain8677.DisShow.Listener;
 
-import com.kiss_the_rain8677.DisShow.DisShow;
+import com.kiss_the_rain8677.DisShow.MainPlugin;
 import com.kiss_the_rain8677.DisShow.HealthList;
-import com.kiss_the_rain8677.DisShow.StateControl;
+import com.kiss_the_rain8677.DisShow.Contoller.StateControl;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageByEntityEvent;
-import org.bukkit.event.entity.EntityDamageEvent;
 
 import java.util.HashMap;
 import java.util.UUID;
 
 public class EntityListener implements Listener {
 
-    DisShow plugin;
-    public EntityListener(DisShow plugin){
+    MainPlugin plugin;
+    public EntityListener(MainPlugin plugin){
         this.plugin=plugin;
         plugin.getServer().getPluginManager().registerEvents(this,plugin);
     }

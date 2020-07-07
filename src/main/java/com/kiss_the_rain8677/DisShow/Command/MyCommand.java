@@ -1,18 +1,17 @@
 package com.kiss_the_rain8677.DisShow.Command;
 
-import com.kiss_the_rain8677.DisShow.DisShow;
+import com.kiss_the_rain8677.DisShow.MainPlugin;
 import com.kiss_the_rain8677.DisShow.GUI.InventoryGUI;
-import com.kiss_the_rain8677.DisShow.StateControl;
+import com.kiss_the_rain8677.DisShow.Contoller.StateControl;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
-import org.bukkit.plugin.java.JavaPlugin;
 
 public class MyCommand implements CommandExecutor {
-    private final DisShow plugin;
+    private final MainPlugin plugin;
 
-    public  MyCommand(DisShow plugin){
+    public  MyCommand(MainPlugin plugin){
         this.plugin=plugin;
     }
     @Override
