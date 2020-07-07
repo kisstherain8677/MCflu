@@ -1,5 +1,5 @@
 name: DisTest
-main: com.kiss_the_rain8677.DisShow.DisShow
+main: com.kiss_the_rain8677.MCflu.MainPlugin
 version: 1.0
 author: kissTheRain
 depend:
