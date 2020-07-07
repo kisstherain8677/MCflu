@@ -1,8 +1,8 @@
-package com.kiss_the_rain8677.DisShow;
+package com.kiss_the_rain8677.DisShow.Runnable;
 
+import com.kiss_the_rain8677.DisShow.DisShow;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
-import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitRunnable;
 
 import java.util.HashMap;
@@ -30,11 +30,7 @@ public class UpdateInfo extends BukkitRunnable {
         updatePlayerList();
         //update min dis from main player
         updateDis();
-
         //以下是条件事件
-
-
-
     }
 
     public void findMainPlayerInServer(String name){

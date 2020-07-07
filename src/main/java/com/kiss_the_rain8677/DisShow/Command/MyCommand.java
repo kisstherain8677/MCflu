@@ -1,6 +1,7 @@
 package com.kiss_the_rain8677.DisShow.Command;
 
 import com.kiss_the_rain8677.DisShow.DisShow;
+import com.kiss_the_rain8677.DisShow.GUI.InventoryGUI;
 import com.kiss_the_rain8677.DisShow.StateControl;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -17,7 +18,7 @@ public class MyCommand implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
-        if(command.getName().equalsIgnoreCase("showdis")){
+        if(command.getName().equalsIgnoreCase("showDis")){
             if(!(sender instanceof Player)){
                 sender.sendMessage("你必须是一名玩家!");
                 return true;
@@ -27,14 +28,14 @@ public class MyCommand implements CommandExecutor {
             return true;
         }
 
-        else if(label.equalsIgnoreCase("infect")){
+        else if(label.equalsIgnoreCase("setMaxHealth")){
             if(!(sender instanceof Player)){
                 sender.sendMessage("你必须是一名玩家!");
                 return true;
             }
             Player player=(Player)sender;
             if(args.length==0){
-                player.sendMessage("请指定要感染的玩家姓名");
+                player.sendMessage("请指定玩家姓名");
             }
             else if(args.length==1){
                 player.sendMessage("请指定设定的上限");
@@ -68,6 +69,16 @@ public class MyCommand implements CommandExecutor {
             else{
                 player.sendMessage("请只输入一个玩家");
             }
+
+        }
+
+        else if(label.equalsIgnoreCase("Invent")){
+            if(!(sender instanceof Player)){
+                sender.sendMessage("你必须是一名玩家!");
+                return true;
+            }
+            Player player=(Player)sender;
+            InventoryGUI.PlayerrenqiGui(player);
 
         }
 

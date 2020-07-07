@@ -7,29 +7,34 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
-public class test {
-    public static void PlayerTestGui(Player player){
-        Inventory inventory= Bukkit.createInventory(null,54,"Test");
-        ItemStack itemStack=new ItemStack(Material.GLASS);
-        ItemMeta itemMeta=itemStack.getItemMeta();
-        itemMeta.setDisplayName("dis");
+public class InventoryGUI {
+    public static String PlayerrenqiGui = "收购界面";
+    public static void PlayerrenqiGui(Player player) {
+        Inventory inventory = Bukkit.createInventory(null, 54, PlayerrenqiGui);
+        ItemStack itemStack = new ItemStack(Material.GLASS);
+        ItemMeta itemMeta = itemStack.getItemMeta();
+        itemMeta.setDisplayName("§7界面图");
         itemStack.setItemMeta(itemMeta);
-        for(int i=0;i<=8;i++){
+        for (int i = 0; i <9 ; i++) {
             inventory.setItem(i,itemStack);
+
         }
         inventory.setItem(9,itemStack);
-        inventory.setItem(18,itemStack);
+        inventory.setItem(18 ,itemStack);
         inventory.setItem(27,itemStack);
         inventory.setItem(36,itemStack);
         inventory.setItem(17,itemStack);
         inventory.setItem(26,itemStack);
         inventory.setItem(35,itemStack);
         inventory.setItem(44,itemStack);
-
-        for(int i=44;i<=53;i++){
+        for (int i = 45; i <54; i++) {
             inventory.setItem(i,itemStack);
         }
         player.openInventory(inventory);
-        ItemStack button=new ItemStack(Material.WOOD_BUTTON);
+        ItemStack itemStack1 = new ItemStack(Material.WOOD_BUTTON);
+        itemMeta.setDisplayName("收购按钮");
+        itemStack1.setItemMeta(itemMeta);
+        inventory.setItem(49,itemStack1);
     }
+
 }

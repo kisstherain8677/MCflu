@@ -12,6 +12,7 @@ import org.bukkit.event.entity.EntityDamageByEntityEvent;
 import org.bukkit.event.entity.EntityDamageEvent;
 
 import java.util.HashMap;
+import java.util.UUID;
 
 public class EntityListener implements Listener {
 
@@ -25,25 +26,25 @@ public class EntityListener implements Listener {
     public void EntityDamage(EntityDamageByEntityEvent event){
 
         Entity damager=event.getDamager();
-        if(damager.getType()== EntityType.ZOMBIE){
+        if(damager.getType()== EntityType.ZOMBIE || damager.getType()==EntityType.ZOMBIE_VILLAGER){
             //攻击的人是僵尸
             Entity entity=event.getEntity();
             String  playerName=((Player)entity).getName();
 
             //获得健康状态
-            HashMap<String, HealthList> allHealthList=plugin.getAllHealthList();
-            HealthList healthList=allHealthList.get(playerName);
+            HashMap<UUID, HealthList> allHealthList=plugin.getAllHealthList();
+            HealthList healthList=allHealthList.get(entity.getUniqueId());
 
             if(playerName.equalsIgnoreCase(plugin.getMainPlayer().getName())){
                 //如果没有感染
                 if(healthList.isInfected()){
-                    System.out.println("had infected");
+                    entity.sendMessage("已经感染了");
                 }else{
                     StateControl control=new StateControl(plugin);
-                    control.setPlayerMaxHealth(playerName,control.getPlayerMaxHealth(playerName)*0.7);
+                    control.infectPlayer((Player)entity,100,30);
                     //更新状态
-                    allHealthList.remove(playerName);
-                    allHealthList.put(playerName,healthList);
+                    allHealthList.remove(entity.getUniqueId());
+                    allHealthList.put(entity.getUniqueId(),healthList);
                     plugin.setAllHealthList(allHealthList);
                 }
 

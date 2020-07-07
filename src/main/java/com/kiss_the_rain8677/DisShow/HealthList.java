@@ -1,7 +1,10 @@
 package com.kiss_the_rain8677.DisShow;
 
+import java.util.UUID;
+
 public class HealthList {
 
+    UUID uid;
     String playerName;
     boolean isInfected;//是否感染
     boolean isMusked;//是否戴口罩
@@ -9,13 +12,22 @@ public class HealthList {
     boolean isDruged;//是否服药
     boolean isVaccine;//是否打过疫苗
 
-    public HealthList(String playerName) {
+    public HealthList(UUID uid,String playerName) {
+        this.uid=uid;
         this.playerName = playerName;
         this.isInfected=false;
         this.isDisinfected=false;
         this.isMusked=false;
         this.isDruged=false;
         this.isVaccine=false;
+    }
+
+    public UUID getUid() {
+        return uid;
+    }
+
+    public void setUid(UUID uid) {
+        this.uid = uid;
     }
 
     public String getPlayerName() {
