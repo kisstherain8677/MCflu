@@ -1,15 +1,19 @@
-name: DisTest
-main: com.kiss_the_rain8677.MCflu.MainPlugin
-version: 1.0
-author: kissTheRain
+name: MyPlugin
+main: com.new_afterwave.mc.MainPlugin
+version: 1.0.0
+author: xiaohuangren
 depend:
   - Vault
+  - VexView
 commands:
+  renqi:
+    description: "renqi命令的描述"
+    usage: "使用方法: /renqi [test|stop]"
+    permission: "MyPlugin.renqi"
+    permission-message: "没有权限"
   showdis:
     description: "show the nearest player's dis to you"
     usage: "usage:/showDis"
-
-
   setMaxHealth:
     description: "set player's max health"
     usage: "usage:/setMaxHealth [player's name+maxVal]"
@@ -19,9 +23,66 @@ commands:
     description: "show player's max health"
     usage: "usage:/showMaxHealth [player's name]"
 
+  infect:
+    description: "infect a player"
+    usage: "usage:/infect [player's name]"
+
+  disInfect:
+    description: "disInfect a player"
+    usage: "usage:/disInfect[player's name]"
+
   invent:
     description: "show inventory"
     usage: "invent"
 
+  showHealthState:
+    description: "open healthState UI"
+    usage: "usage:/showHealthState"
+  give:
+    description: "给口罩和消毒剂"
+    usage: "give <N95/disinfector> <number>"
 
+  saveHealth:
+    description: "保存玩家健康状态"
+    usage: "saveHealth"
 
+  login:
+    description: "登录"
+    usage: "/login <empty/password>"
+    permission: "MyPlugin.login"
+    permission-message: "You don't have the right to use login command."
+  register:
+    description: "注册"
+    usage: "/register <password>"
+    permission: "MyPlugin.register"
+    permission-message: "You don't have the right to use register command."
+  vent:
+    description: "ge a ventilator"
+    usage: "usage:/ge a ventilator"
+  showvents:
+    description: "show all ventilators"
+    usage: "show all ventilators"
+permission:
+  renqi.*:
+    description: "所有人气插件权限集合"
+    children:
+      renqi.up: true
+      renqi.down: true
+      renqi.add: true
+      renqi.remove: true
+      renqi.set: true
+  renqi.up:
+    description: "普通玩家就有这个权限加人气"
+    default: true
+  renqi.down:
+    description: "普通玩家就有这个权限减少人气"
+    default: true
+  renqi.add:
+    description: "管理员有这个权限加人气"
+    default: op
+  renqi.remove:
+    description: "管理员有这个权限减少人气"
+    default: op
+  renqi.set:
+    description: "管理员有这个权限设置人气"
+    default: op

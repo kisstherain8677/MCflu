@@ -1,59 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="DisShow" />
-    </artifacts-to-build>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a518deb8-4593-44f6-8b2d-fc8e9ceeaa6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+    <list default="true" id="c89033d2-9db3-479c-b41b-563a4e604d3d" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/Tools.java" afterDir="false" />
+=======
+>>>>>>> a8eed86c24c3ac433d65e93392cfab1acbebeadd
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/DisShow-1.01-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/DisShow-1.01-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Command/MyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Command/MyCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Contoller/StateControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Contoller/StateControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/GUI/InventoryGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/GUI/InventoryGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/HealthList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/HealthList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/EntityListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Listener/EntityListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/InventoryGUIListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Listener/InventoryGUIListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Listener/PlayerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Listener/PlayerListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/MainPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/MainPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/DelayDead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Runnable/DelayDead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/InfectedPartical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Runnable/InfectedPartical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Runnable/UpdateInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Runnable/UpdateInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/DisShow/Util/VaultUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiss_the_rain8677/MCflu/Util/VaultUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Commands/MyCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Commands/MyCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Gui/InventoryGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Listener/InventoryGUIListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Listener/InventoryGUIListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Listener/PlayerListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Listener/PlayerListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Listener/PlayerListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Listener/PlayerListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/McPlugin1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/McPlugin1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/MyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/MyCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Gui/InventoryGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Gui/ShopGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Gui/renqiInventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/InventoryGUIListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/InventoryGUIListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/PlayerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/PlayerListener.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Runnable/DelayDead.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/new_afterwave/mc/Runnable/DelayDead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/McPlugin1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/McPlugin1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DelayDead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DelayDead.java" afterDir="false" />
+>>>>>>> a8eed86c24c3ac433d65e93392cfab1acbebeadd
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -68,13 +59,151 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="McPlugin1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="McPlugin1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="McPlugin1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="McPlugin1" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DelayDead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/LoginCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="44" column="53" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/EntityListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="44" column="80" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/CurePartical.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/MainPlugin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/InventoryGUIListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="57" column="99" selection-start-line="57" selection-start-column="99" selection-end-line="57" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/HealthList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="76" column="23" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+              <folding>
+                <element signature="e#2257#2258#0" expanded="true" />
+                <element signature="e#2320#2321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/VentilatorListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2210#2491#0" expanded="true" />
+                <element signature="e#2490#2491#0" expanded="true" />
+                <element signature="e#2605#2906#0" expanded="true" />
+                <element signature="e#2905#2906#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/VexView/VentilatorGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Controller/StateControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+>>>>>>> a8eed86c24c3ac433d65e93392cfab1acbebeadd
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -82,39 +211,165 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>databaseName</find>
+      <find>PlayerInteractEvent</find>
+      <find>plugin</find>
+      <find>titleSendEvent</find>
+      <find>已感染</find>
+      <find>infectPlayer</find>
+      <find>stateList</find>
+      <find>deadTime</find>
+      <find>infect</find>
+      <find>join</find>
+      <find>infectpl</find>
+      <find>remove</find>
+      <find>已经不在服务器</find>
+      <find>player</find>
+      <find>println</find>
+      <find>give</find>
+      <find>你死了</find>
+      <find>drug</find>
+      <find>deadrate</find>
+      <find>Rate</find>
+      <find>enable</find>
+      <find>en</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1e49dW3oChZ56fwC9YXcgmRV7QB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< HEAD
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/LoginCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/RegisterCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/dao/SQLiteManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/UpdateHUD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/PluginInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/LoginManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/TestDis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/PlayerLoginManagerListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/TitleApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/UpdateDis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/EntityListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/LoginGuiListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/entity/Disinfector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/entity/N95.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DefendModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/InfectedPartical.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/VexView/FluGui.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/dao/MySQLManager.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/MyCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/entity/COVIDPotion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DelayShow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/PlayerListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/HealthList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/MainPlugin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Controller/StateControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/VentilatorListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/CurePartical.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DelayDead.java" />
+      </list>
+    </option>
+  </component>
+>>>>>>> a8eed86c24c3ac433d65e93392cfab1acbebeadd
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectId" id="1e6mwU0pRmomZTRINO8Che6QiXA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15359478" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java projects\DisShow\src\main\java\com\kiss_the_rain8677\DisShow\util" />
-      <recent name="D:\java projects\DisShow\lib" />
+      <recent name="G:\Gitee\java\我的世界插件\MCflu\src\main\java\com\new_afterwave\mc\Util" />
+      <recent name="D:\git\MCflu\libs" />
+      <recent name="D:\java projects\MCfluee\MCflu\src\main\java\com\new_afterwave\mc" />
+      <recent name="D:\git\MCflu\src\main\java\com\new_afterwave\mc\entity" />
+      <recent name="D:\java projects\MCfluee\MCflu\libs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.new_afterwave.mc.Runnable" />
+      <recent name="com.new_afterwave.mc.Util" />
+      <recent name="com.new_afterwave.mc.Listener" />
+      <recent name="com.new_afterwave.mc.VexView" />
+      <recent name="com.new_afterwave.mc.entity" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java projects\DisShow\src\main\resources" />
-      <recent name="D:\java projects\DisShow\src" />
+      <recent name="D:\java projects\MCfluee\MCflu\build" />
+      <recent name="F:\gitee\java\mc\McPlugin1\libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DisShow [build]">
-    <configuration name="DisShow [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.McPlugin1 [build]">
+    <configuration name="McPlugin1 [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="McPlugin1 [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="McPlugin1 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -133,7 +388,7 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DisShow [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="McPlugin1 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -152,30 +407,12 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DisShow [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="init" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DisShow [init]" />
-        <item itemvalue="Gradle.DisShow [clean]" />
-        <item itemvalue="Gradle.DisShow [build]" />
+        <item itemvalue="Gradle.McPlugin1 [build]" />
+        <item itemvalue="Gradle.McPlugin1 [assemble]" />
+        <item itemvalue="Gradle.McPlugin1 [clean]" />
+        <item itemvalue="Gradle.McPlugin1 [buildDependents]" />
       </list>
     </recent_temporary>
   </component>
@@ -184,89 +421,656 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a518deb8-4593-44f6-8b2d-fc8e9ceeaa6a" name="Default Changelist" comment="" />
-      <created>1593570085874</created>
+      <changelist id="c89033d2-9db3-479c-b41b-563a4e604d3d" name="Default Changelist" comment="" />
+      <created>1593650654917</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593570085874</updated>
-      <workItem from="1593570087493" duration="644000" />
-      <workItem from="1593571632701" duration="1655000" />
-      <workItem from="1593573368651" duration="2362000" />
-      <workItem from="1593591576383" duration="1236000" />
-      <workItem from="1593649291665" duration="702000" />
-      <workItem from="1593650101564" duration="11973000" />
-      <workItem from="1593672318566" duration="12070000" />
-      <workItem from="1593735005969" duration="11202000" />
-      <workItem from="1593914601538" duration="13828000" />
-      <workItem from="1593958461321" duration="1626000" />
-      <workItem from="1593995044981" duration="5943000" />
-      <workItem from="1594008140474" duration="1232000" />
-      <workItem from="1594014944684" duration="13250000" />
-      <workItem from="1594046346915" duration="1203000" />
-      <workItem from="1594082229882" duration="16429000" />
-      <workItem from="1594111733194" duration="85000" />
+      <updated>1593650654917</updated>
+      <workItem from="1593650659371" duration="2473000" />
+      <workItem from="1593653258978" duration="608000" />
+      <workItem from="1593654122667" duration="10611000" />
+      <workItem from="1593995774303" duration="8742000" />
+      <workItem from="1594008538048" duration="663000" />
+      <workItem from="1594011670416" duration="4029000" />
+      <workItem from="1594022233788" duration="14447000" />
+      <workItem from="1594082156724" duration="8318000" />
+      <workItem from="1594106976934" duration="4391000" />
+      <workItem from="1594113611999" duration="11971000" />
+      <workItem from="1594133532149" duration="308000" />
+      <workItem from="1594168327548" duration="14355000" />
+      <workItem from="1594254852894" duration="3353000" />
+      <workItem from="1594261481557" duration="13907000" />
+      <workItem from="1594295954085" duration="538000" />
+      <workItem from="1594348392859" duration="1722000" />
+      <workItem from="1594370082591" duration="1529000" />
+      <workItem from="1594374068927" duration="10083000" />
+      <workItem from="1594479868736" duration="2083000" />
+      <workItem from="1594541075008" duration="5400000" />
+      <workItem from="1594599621424" duration="1562000" />
+      <workItem from="1594604434146" duration="37741000" />
+      <workItem from="1594715361978" duration="1489000" />
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31161000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27412868" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.21954674" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.21954674" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50067025" side_tool="true" weight="0.1388102" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.21715818" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+>>>>>>> a8eed86c24c3ac433d65e93392cfab1acbebeadd
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="73" key="#Auto_Import" timestamp="1593652649938">
+    <state x="381" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594112061416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="73" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1593652649938" />
-    <state x="477" y="38" key="#DisShow_[build]" timestamp="1593572866467">
+    <state x="381" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594112061416" />
+    <state x="612" y="178" key="#com.intellij.ide.util.MemberChooser" timestamp="1594608037243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="38" key="#DisShow_[build]/0.0.1536.824@0.0.1536.824" timestamp="1593572866467" />
-    <state x="477" y="38" key="#DisShow_[init]" timestamp="1593572914452">
+    <state x="612" y="178" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594097761227" />
+    <state x="612" y="178" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594608037243" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593658166936" />
+    <state x="588" y="102" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1594171511685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="38" key="#DisShow_[init]/0.0.1536.824@0.0.1536.824" timestamp="1593572914452" />
-    <state x="686" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1594109815331">
+    <state x="588" y="102" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594171511685" />
+    <state width="1877" height="139" key="GridCell.Tab.0.bottom" timestamp="1594716482652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594124652133" />
+    <state width="1493" height="80" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594648500455" />
+    <state width="1877" height="139" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594716482652" />
+    <state width="1877" height="139" key="GridCell.Tab.0.center" timestamp="1594716482652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594124652132" />
+    <state width="1493" height="80" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594648500455" />
+    <state width="1877" height="139" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594716482652" />
+    <state width="1877" height="139" key="GridCell.Tab.0.left" timestamp="1594716482651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594124652132" />
+    <state width="1493" height="80" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594648500455" />
+    <state width="1877" height="139" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594716482651" />
+    <state width="1877" height="139" key="GridCell.Tab.0.right" timestamp="1594716482652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594124652132" />
+    <state width="1493" height="80" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594648500455" />
+    <state width="1877" height="139" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594716482652" />
+    <state x="464" y="113" key="RollbackChangesDialog" timestamp="1594133840150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="686" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594109815331" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593574889466">
+    <state x="464" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594133840150" />
+    <state x="369" y="108" key="SettingsEditor" timestamp="1594168397325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593574889466" />
-    <state width="1493" height="20" key="GridCell.Tab.0.bottom" timestamp="1594111872394">
+    <state x="369" y="113" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594022274630" />
+    <state x="369" y="108" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594168397325" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593656089075" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594604431192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="20" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594111872394" />
-    <state width="1493" height="20" key="GridCell.Tab.0.center" timestamp="1594111872394">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594604431192" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594637279431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="20" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594111872394" />
-    <state width="1493" height="20" key="GridCell.Tab.0.left" timestamp="1594111872393">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="20" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594111872393" />
-    <state width="1493" height="20" key="GridCell.Tab.0.right" timestamp="1594111872394">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="20" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594111872394" />
-    <state x="698" y="146" key="IDE.errors.dialog" timestamp="1593654181041">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="698" y="146" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1593654181041" />
-    <state x="314" y="0" key="SettingsEditor" timestamp="1594018040853">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="314" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594018040853" />
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1594111508203">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594111508203" />
-    <state x="356" y="13" key="new project wizard" timestamp="1593574039057">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="356" y="13" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593574039057" />
-    <state x="784" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1593654736082">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="784" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593654736082" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594637279431" />
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/libs/spigot-1.12.2.jar!/org/bukkit/plugin/java/JavaPlugin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/PlayerInteractListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Gui/renqiInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Gui/InventoryGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/TitleSendEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/TitleApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/VaultUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/PlayerLoginManagerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2067#2235#0" expanded="true" />
+            <element signature="e#2234#2235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/entity/Disinfector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="65" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/spigot-1.12.2.jar!/org/bukkit/inventory/EquipmentSlot.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/VexView/LoginGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/UpdateDis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/UpdateHUD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/RegisterCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="44" column="37" lean-forward="true" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/JsonMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/LoginManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/MyCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="357" column="58" selection-start-line="357" selection-start-column="58" selection-end-line="357" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7139#7140#0" expanded="true" />
+            <element signature="e#7175#7176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/dao/SQLCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/LoginGuiListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="98" column="42" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="59" column="33" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/VexListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/VexView/FluGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="36" column="98" selection-start-line="36" selection-start-column="98" selection-end-line="36" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/entity/N95.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/entity/Ventilator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/entity/COVIDPotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DelayShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/TestDis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="60" column="42" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/VentilatorStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/PluginInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1445#1446#0" expanded="true" />
+            <element signature="e#1491#1492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DefendModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/EnableMove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/InfectedPartical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="61" column="60" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/dao/LoginSQLiteManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/dao/LoginSQLStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/dao/MySQLManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/PlayerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="181" column="34" selection-start-line="181" selection-start-column="34" selection-end-line="181" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/VexView/VentilatorGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/VentilatorListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="73" column="39" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2210#2491#0" expanded="true" />
+            <element signature="e#2490#2491#0" expanded="true" />
+            <element signature="e#2605#2906#0" expanded="true" />
+            <element signature="e#2905#2906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/EntityListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="44" column="80" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/CurePartical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Listener/InventoryGUIListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="57" column="99" selection-start-line="57" selection-start-column="99" selection-end-line="57" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/MainPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Controller/StateControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Util/HealthList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="76" column="23" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+          <folding>
+            <element signature="e#2257#2258#0" expanded="true" />
+            <element signature="e#2320#2321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Runnable/DelayDead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/new_afterwave/mc/Commands/LoginCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="44" column="53" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+>>>>>>> a8eed86c24c3ac433d65e93392cfab1acbebeadd
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>DisShow</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Minecraft</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MCflu.test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

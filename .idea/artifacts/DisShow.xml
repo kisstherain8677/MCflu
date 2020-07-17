@@ -2,8 +2,7 @@
   <artifact type="jar" name="DisShow">
     <output-path>$PROJECT_DIR$/out/artifacts/DisShow</output-path>
     <root id="archive" name="DisShow.jar">
-      <element id="module-output" name="DisShow.main" />
-      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="module-output" name="MCflu.main" />
     </root>
   </artifact>
 </component>
